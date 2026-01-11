@@ -3,6 +3,14 @@
   <img src="resource/result_on_cover426.jpg" width="500" height="350">
 </p>
 
+## ⚠️ License Warning / 授權聲明
+
+Copyright © 2026 [Pin-Yu Lu, Kai-Hsun Yu]. All Rights Reserved.
+
+This project and its source code are released for Academic Research Use Only. Commercial use, redistribution, or modification for commercial purposes is strictly prohibited without a formal written license agreement.
+
+本專案僅供學術研究使用。未經書面正式授權，嚴禁任何形式的商業使用、轉載或修改。
+
 ## Abstract
 In today's healthcare system, dental implants have become the mainstream treatment for tooth loss. Coupled with modern society's emphasis on aesthetics and self-confidence, missing teeth not only affect appearance but also diminish quality of life and increase health risks. Although dental implant surgery generally boasts a high success rate, traditional planning remains heavily reliant on the dentist's experience. This approach is susceptible to variations in imaging quality and subjective judgment, potentially increasing surgical risks and even complications. To address this challenge, this project applies artificial intelligence (AI) to dental panoramic radiographs (DPR). By integrating YOLO object detection and Oriented Bounding Box (OBB) annotation techniques, it establishes a deep learning-assisted predictive diagnostic system. Through image enhancement and model training, it automatically identifies and annotates missing tooth regions and adjacent tooth positions, thereby calculating optimal implant placement pathways. The implementation of automated and standardized implant planning assists clinicians in determining precise implant trajectories, enhancing diagnostic efficiency while reducing the burden on healthcare systems.
 
